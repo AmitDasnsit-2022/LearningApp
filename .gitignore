@@ -6,3 +6,4 @@ Dockerfile
 .vscode/launch.json
 .vscode/tasks.json
 .vs
+.helpers/google-service.json
